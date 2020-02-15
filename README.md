@@ -14,4 +14,4 @@ So I analyzed the dataset on the following parameters:
 10) Sales w.r.to Sub-Category.
 11) Sales & Profit w.r.to Market.
 
-And to analyze it all together in one place I designed an interactive Dashboard.
+And to analyze it all together in one place I also designed an interactive Dashboard.
